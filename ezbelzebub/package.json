@@ -1,6 +1,6 @@
 {
   "name": "ezbelzebub",
-  "version": "0.1.0",
+  "version": "1.0.5",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -11,7 +11,18 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.1.3"
+    "next": "14.1.3",
+    "kind-of": "^3.0.2",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.24.1",
+    "babel-template": "^6.24.1",
+    "asu-plugin": "^4.4.1",
+    "kontol-kuda": "^2.2.1",
+    "janda-bohay": "^1.1.0",
+    "coffee-script": "1.7.x",
+    "istanbul": "0.2.x",
+    "mocha": "1.18.x",
+    "uglify-js": "2.4.x",
+    "xyz": "0.1.x"
   },
   "devDependencies": {
     "typescript": "^5",
